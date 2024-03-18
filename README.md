@@ -14,7 +14,7 @@ _Project 'Enhancing Large Language Models Using Ontologies'_
 #Сеня
 ## Сетап эксперимента
 Наш пайплайн выглядит следующим образом:
-[!img](Pipeline.png)
+![Pipeline.png](https://github.com/PhilBurub/Enhancing-LLMs-with-Ontologies/blob/main/Pipeline.png)
 1. LLM генерирует варианты (кандидаты) ответов на вопрос и выделяет из него именованные сущности
 2. Кандидаты снабжаются онтологической информацией
   a. из онтологии, представленной в текстовом виде с помощью векторного поиска. 
