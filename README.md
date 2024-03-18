@@ -31,4 +31,4 @@ Sequence ranking – отдельная модель, оценивающая в�
 #Настя и #Альберт
 ## Устройство репозитория
 ├─ _folder 1_ contains files for X<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ **file_1.py** does Y<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ `file_1.py` does Y<br>
