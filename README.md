@@ -12,7 +12,7 @@ _Project 'Enhancing Large Language Models Using Ontologies'_
 ### Онтология
 #Маша
 ### Обучение и оценка
-#Сеня
+Для обучения и оценки качества модели использовался датасет [Mintaka](https://github.com/amazon-science/mintaka). Из него мы взяли вопросы, ответ на которые фомулировался в виде сущности (удалены вопросы на количество, порядок, да/нет вопросы). Для обучения, тестирования и валидации мы взяли 8576, 2436 и 1229 вопросов соответственно.
 ## Сетап эксперимента
 Наш пайплайн выглядит следующим образом:
 ![Pipeline.png](https://github.com/PhilBurub/Enhancing-LLMs-with-Ontologies/blob/main/Pipeline.png)
